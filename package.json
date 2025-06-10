@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@testing-library/cypress": "^10.0.3",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.15.3",
+    "cypress": "^14.3.2",
+    "eslint": "^9.25.1",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-cypress": "^4.3.0",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
